@@ -32,6 +32,21 @@
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
     &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/zRkTK27.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Франк Тилье - Лента Мёбиуса&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+    Детектив-триллер с элементами мистики и боди-хоррора. Повествование ведётся от лица молодого полицейского, которому выпало расследовать серию жесточайших убийств и декоратора который видит во снах эти самые убийства. Далее каждый начинает своё расследование и всё начинает закручиваться...
+&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://i.imgur.com/4inusrH.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;w-90&#34;&gt;
@@ -43,16 +58,31 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
     &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/zRkTK27.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/ZLCVLiF.png&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Франк Тилье - Лента Мёбиуса&lt;/h4&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Элияху Голдратт - Цель. Процесс непрерывного совершенствования&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
-    Детектив-триллер с элементами мистики и боди-хоррора. Повествование ведётся от лица молодого полицейского, которому выпало расследовать серию жесточайших убийств и декоратора который видит во снах эти самые убийства. Далее каждый начинает своё расследование и всё начинает закручиваться...
+&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/VCR7ReO.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Бэйли Крис - Мой продуктивный год&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
       
     &lt;/div&gt;
