@@ -6,9 +6,20 @@
     <description>Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
+    <lastBuildDate>Mon, 08 Jun 2020 00:33:05 +0300</lastBuildDate>
     
     <atom:link href="https://famiclone.ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Init</title>
+      <link>https://famiclone.ml/posts/init/</link>
+      <pubDate>Mon, 08 Jun 2020 00:33:05 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/posts/init/</guid>
+      <description>&lt;p&gt;Первая запись в блоге.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Books</title>

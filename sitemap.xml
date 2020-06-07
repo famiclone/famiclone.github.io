@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://famiclone.ml/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/posts/init/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/posts/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://famiclone.ml/books/</loc>
     <lastmod>2020-06-07T20:01:38+03:00</lastmod>
   </url>
@@ -15,10 +30,6 @@
   <url>
     <loc>https://famiclone.ml/music/</loc>
     <lastmod>2020-06-07T11:53:10+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/</loc>
   </url>
   
   <url>
