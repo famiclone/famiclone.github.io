@@ -3,20 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://famiclone.github.io/books/</loc>
-    <lastmod>2020-06-06T01:30:41-07:00</lastmod>
+    <loc>https://famiclone.ml/books/</loc>
+    <lastmod>2020-06-07T20:01:38+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://famiclone.github.io/</loc>
+    <loc>https://famiclone.ml/about/</loc>
+    <lastmod>2020-06-07T18:54:19+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://famiclone.github.io/categories/</loc>
+    <loc>https://famiclone.ml/music/</loc>
+    <lastmod>2020-06-07T11:53:10+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://famiclone.github.io/tags/</loc>
+    <loc>https://famiclone.ml/</loc>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/tags/</loc>
   </url>
   
 </urlset>
