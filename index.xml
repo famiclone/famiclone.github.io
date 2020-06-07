@@ -16,7 +16,38 @@
       <pubDate>Sun, 07 Jun 2020 20:01:38 +0300</pubDate>
       
       <guid>https://famiclone.ml/books/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/4inusrH.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Рэймонд Чандлер - Король в жёлтом&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+    Нуар-детектив на вечер о приключениях гостиничного детектива. Прочитал его случайно так как изначально хотел прочитать одноименный рассказ Роберта У. Чемберса, но перепутал авторов.
+&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/zRkTK27.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Франк Тилье - Лента Мёбиуса&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+    Детектив-триллер с элементами мистики и боди-хоррора. Повествование ведётся от лица молодого полицейского, которому выпало расследовать серию жесточайших убийств и декоратора который видит во снах эти самые убийства. Далее каждый начинает своё расследование и всё начинает закручиваться...
+&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -39,183 +70,207 @@
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a3730827135_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Tommy Guerrero - Road to Knowhere&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://tommy-guerrero-too-good.bandcamp.com/album/road-to-knowhere&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://tommy-guerrero-too-good.bandcamp.com/album/road-to-knowhere&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a2920217675_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Oneohtrix Point Never - Replica&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
     test
 &lt;/p&gt;
-      &lt;a href=&#34;https://oneohtrixpointnever1.bandcamp.com/album/replica&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://oneohtrixpointnever1.bandcamp.com/album/replica&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://i.imgur.com/01EaUoO.png&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt; James Ferraro ‎– Jarvid 9: Gecko &lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://www.discogs.com/James-Ferraro-Jarvid-9-Gecko/release/1776966&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://www.discogs.com/James-Ferraro-Jarvid-9-Gecko/release/1776966&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://i.imgur.com/5saBpkb.png&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Boards Of Canada ‎– Music Has The Right To Children&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://www.discogs.com/Boards-Of-Canada-Music-Has-The-Right-To-Children/master/1893&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://www.discogs.com/Boards-Of-Canada-Music-Has-The-Right-To-Children/master/1893&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a1889170081_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Shpongle - Nothing Lasts... But Nothing Is Lost&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://shponglemusic.bandcamp.com/album/nothing-lasts-but-nothing-is-lost&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://shponglemusic.bandcamp.com/album/nothing-lasts-but-nothing-is-lost&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
-      &lt;img src=&#34;&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a0756436376_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Evan Marc &amp;#43; Steve Hillage - Dreamtime Submersible&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://bluetech.bandcamp.com/album/evan-marc-steve-hillage-dreamtime-submersible&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://bluetech.bandcamp.com/album/evan-marc-steve-hillage-dreamtime-submersible&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a0158336333_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Burial - Untrue&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://burial.bandcamp.com/album/untrue&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://burial.bandcamp.com/album/untrue&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://i.imgur.com/gmYowdN.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt; The Sabres Of Paradise ‎– Sabresonic&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://www.discogs.com/The-Sabres-Of-Paradise-Sabresonic/release/16466&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://www.discogs.com/The-Sabres-Of-Paradise-Sabresonic/release/16466&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a0667867091_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Colonopenbracket - First Blood!!!&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://colonopenbracket.bandcamp.com/album/first-blood&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://colonopenbracket.bandcamp.com/album/first-blood&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a2988151693_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Action Jackson - Testarossa&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://actionjacksonmusic.bandcamp.com/album/testarossa&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://actionjacksonmusic.bandcamp.com/album/testarossa&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a2881869020_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Panopticon - Autumn Eternal&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://thetruepanopticon.bandcamp.com/album/autumn-eternal&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://thetruepanopticon.bandcamp.com/album/autumn-eternal&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a1825905304_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
-    &lt;div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Fanso - Música para Lagartos&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
-      &lt;a href=&#34;https://fanso.bandcamp.com/album/m-sica-para-lagartos&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+        &lt;a href=&#34;https://fanso.bandcamp.com/album/m-sica-para-lagartos&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+&lt;/p&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
