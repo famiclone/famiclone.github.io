@@ -81,7 +81,7 @@
       &lt;img src=&#34;https://i.imgur.com/VCR7ReO.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Бэйли Крис - Мой продуктивный год&lt;/h4&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Крис Бэйли - Мой продуктивный год&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
 &lt;/p&gt;
       
@@ -128,12 +128,28 @@
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
     &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://f4.bcbits.com/img/a2077159990_16.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Yussef Kamaal - Black Focus&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+&lt;/p&gt;
+      
+        &lt;a href=&#34;https://yussefkamaal.bandcamp.com/album/black-focus&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://f4.bcbits.com/img/a2920217675_16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;w-90&#34;&gt;
       &lt;h4 class=&#34;media-item__title&#34;&gt;Oneohtrix Point Never - Replica&lt;/h4&gt;
       &lt;p class=&#34;mt-0&#34;&gt;
-    test
+test
 &lt;/p&gt;
       
         &lt;a href=&#34;https://oneohtrixpointnever1.bandcamp.com/album/replica&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
