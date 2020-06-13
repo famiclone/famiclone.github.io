@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://famiclone.ml/information/</loc>
+    <lastmod>2020-06-13T12:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://famiclone.ml/</loc>
     <lastmod>2020-06-08T00:33:05+03:00</lastmod>
   </url>
@@ -30,6 +35,10 @@
   <url>
     <loc>https://famiclone.ml/music/</loc>
     <lastmod>2020-06-07T11:53:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/posts/info/gamedev/</loc>
   </url>
   
   <url>
