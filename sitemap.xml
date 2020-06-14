@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>https://famiclone.ml/tags/advice/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://famiclone.ml/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/posts/crisis-jung/</loc>
     <lastmod>2020-06-08T00:33:05+03:00</lastmod>
   </url>
   
@@ -18,7 +28,17 @@
   </url>
   
   <url>
+    <loc>https://famiclone.ml/tags/movie/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://famiclone.ml/posts/</loc>
+    <lastmod>2020-06-08T00:33:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famiclone.ml/tags/</loc>
     <lastmod>2020-06-08T00:33:05+03:00</lastmod>
   </url>
   
@@ -43,10 +63,6 @@
   
   <url>
     <loc>https://famiclone.ml/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/tags/</loc>
   </url>
   
 </urlset>
