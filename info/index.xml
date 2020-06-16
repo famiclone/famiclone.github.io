@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on Blog</title>
+    <link>https://famiclone.ml/info/</link>
+    <description>Blog (Infos)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Sat, 13 Jun 2020 12:56:18 +0300</lastBuildDate>
+    
+    <atom:link href="https://famiclone.ml/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software</title>
+      <link>https://famiclone.ml/info/software/</link>
+      <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/info/software/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://famiclone.ml/info/vim/</link>
+      <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/info/vim/</guid>
+      <description>&lt;h3 id=&#34;window&#34;&gt;Window&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;:res +25&lt;/code&gt; - resize window&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

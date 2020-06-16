@@ -6,7 +6,7 @@
     <description>Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 08 Jun 2020 00:33:05 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 12:56:18 +0300</lastBuildDate>
     
     <atom:link href="https://famiclone.ml/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +23,29 @@
 &lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/hardware&#34;&gt;Hardware&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://famiclone.ml/info/software/</link>
+      <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/info/software/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/vim&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://famiclone.ml/info/vim/</link>
+      <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/info/vim/</guid>
+      <description>&lt;h3 id=&#34;window&#34;&gt;Window&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;:res +25&lt;/code&gt; - resize window&lt;/p&gt;
 </description>
     </item>
     
