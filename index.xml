@@ -6,10 +6,23 @@
     <description>Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sat, 13 Jun 2020 12:56:18 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 23:52:08 +0300</lastBuildDate>
     
     <atom:link href="https://famiclone.ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clear day</title>
+      <link>https://famiclone.ml/posts/clear/</link>
+      <pubDate>Tue, 16 Jun 2020 23:52:08 +0300</pubDate>
+      
+      <guid>https://famiclone.ml/posts/clear/</guid>
+      <description>&lt;p&gt;В очередной раз почистил смартфон от лишних приложений, и наконец-то настроил уведомления.&lt;/p&gt;
+&lt;p&gt;Понял, что незачем держать в смартфоне приложения-сервисы, доступ к которым можно получить из компьютера/браузера (кроме такси и доставки, конечно). Уведомления теперь приходят только на звонки и выбранные сообщения.&lt;/p&gt;
+&lt;p&gt;Но самое главное - это чистка Телеграма от чатов и каналов (в некоторых по 10к непрочитаных было). Сейчас у меня только необходимые контакты и всё, а список активных чатов помещается в два экрана. Теперь не прийдётся себя ловить на мысли, что ты зашел ответить на важное сообщение, а вместо этого смотришь мемы/скроллишь рандомный чат.&lt;/p&gt;
+&lt;p&gt;Создал событие в календаре: раз в неделю (помимо бытовой уборки) проводить диджитал уборку:  чистить почту, Downloads директорию и открытые вкладки в браузере.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Information</title>
