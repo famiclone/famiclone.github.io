@@ -92,6 +92,21 @@
 &lt;div class=&#34;media-item&#34;&gt;
   &lt;div class=&#34;media-item__container&#34;&gt;
     &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
+      &lt;img src=&#34;https://i.imgur.com/0vCIAcT.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;w-90&#34;&gt;
+      &lt;h4 class=&#34;media-item__title&#34;&gt;Харлан Эллисон - У меня нет рта, но я должен кричать&lt;/h4&gt;
+      &lt;p class=&#34;mt-0&#34;&gt;
+    Решил перечитать эту нестареющую классику. Тот редкий случай, когда игра вышедшая по мотивам - дополняет и расширяет первоисточник настолько, что становится самодостаточным произведением. 10 cуперкомпьютеров из 10
+&lt;/p&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;media-item&#34;&gt;
+  &lt;div class=&#34;media-item__container&#34;&gt;
+    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
       &lt;img src=&#34;https://i.imgur.com/g61WDTz.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;w-90&#34;&gt;
