@@ -96,3 +96,10 @@ img {
 .media-item__title {
   margin: 0;
 }
+
+@media screen and (max-width: 640px) {
+  body {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
