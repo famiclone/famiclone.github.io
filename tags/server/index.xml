@@ -1,47 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog</title>
-    <link>https://famiclone.ml/posts/</link>
-    <description>Blog (Posts)</description>
+    <title>server on Blog</title>
+    <link>https://famiclone.ml/tags/server/</link>
+    <description>Blog (server)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 16 Jun 2020 23:52:08 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 09:53:35 +0200</lastBuildDate>
     
-    <atom:link href="https://famiclone.ml/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://famiclone.ml/tags/server/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Clear day</title>
-      <link>https://famiclone.ml/posts/clear/</link>
-      <pubDate>Tue, 16 Jun 2020 23:52:08 +0300</pubDate>
-      
-      <guid>https://famiclone.ml/posts/clear/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8OwFZh3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;В очередной раз почистил смартфон от лишних приложений, и наконец-то настроил уведомления.&lt;/p&gt;
-&lt;p&gt;Понял, что незачем держать в смартфоне приложения-сервисы, доступ к которым можно получить из компьютера/браузера (кроме такси и доставки, конечно). Уведомления теперь приходят только на звонки и выбранные сообщения.&lt;/p&gt;
-&lt;p&gt;Но самое главное - это чистка Телеграма от чатов и каналов (в некоторых по 10к непрочитаных было). Сейчас у меня только необходимые контакты и всё, а список активных чатов помещается в два экрана. Теперь не прийдётся себя ловить на мысли, что ты зашел ответить на важное сообщение, а вместо этого смотришь мемы/скроллишь рандомный чат.&lt;/p&gt;
-&lt;p&gt;Создал событие в календаре: раз в неделю (помимо бытовой уборки) проводить диджитал уборку:  чистить почту, Downloads директорию и открытые вкладки в браузере.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Crisis Jung</title>
-      <link>https://famiclone.ml/posts/crisis-jung/</link>
-      <pubDate>Mon, 08 Jun 2020 00:33:05 +0300</pubDate>
-      
-      <guid>https://famiclone.ml/posts/crisis-jung/</guid>
-      <description>&lt;p&gt;Аниме от французов, которое заслуживает внимания настолько насколько оно состоит из жестокости и скрытых смыслов.&lt;/p&gt;
-&lt;p&gt;Коктейль из Кулака северной звезды, Металапокалипсиса, отборного трэша, гуро и самоанализа взбитого бензопилой-членом.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/u13ImZ0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;завязка-всей-истории&#34;&gt;Завязка всей истории&lt;/h3&gt;
-&lt;p&gt;Главный герой Юнг и его девушка Мария наслаждаются новым местом куда они переехали. Несмотря на озлобленный и мрачный вид одного из соседей, Юнг обещает что они поладят с ними.
-Пара сближается для поцелуя на фоне зеленой травы под голубым небом и&amp;hellip; с неба падают бомбы, все вокруг взрывается и за пару секунд наступает апокалипсис.&lt;/p&gt;
-&lt;p&gt;Дальше наступает абсолютный сюр и тотальный пи__ец. Из под земли вылезает гиганский толстый монстр (который называет себя Малыш Иисус), отрывает голову Марие и делает из её центральным элементом своей пирамиды. Юнг в ярости произносит пафосную фразу и сразу же отбрасывается на далекое расстояние пальцем Малыша Иисуса.&lt;/p&gt;
-&lt;p&gt;C этого момента герою предстоит путь, где он переосмыслит своё существование, чтобы обрести Марию снова&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Z2aXO5X.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Хранилище файлов из подручных средств. Часть 1</title>
