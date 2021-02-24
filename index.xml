@@ -6,181 +6,119 @@
     <description>Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 16 Jun 2020 23:52:08 +0300</lastBuildDate>
     
     <atom:link href="https://famiclone.ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Clear day</title>
-      <link>https://famiclone.ml/posts/clear/</link>
-      <pubDate>Tue, 16 Jun 2020 23:52:08 +0300</pubDate>
+      <title>Things that i use</title>
+      <link>https://famiclone.ml/uses/</link>
+      <pubDate>Tue, 23 Feb 2021 23:43:18 +0300</pubDate>
       
-      <guid>https://famiclone.ml/posts/clear/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8OwFZh3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;В очередной раз почистил смартфон от лишних приложений, и наконец-то настроил уведомления.&lt;/p&gt;
-&lt;p&gt;Понял, что незачем держать в смартфоне приложения-сервисы, доступ к которым можно получить из компьютера/браузера (кроме такси и доставки, конечно). Уведомления теперь приходят только на звонки и выбранные сообщения.&lt;/p&gt;
-&lt;p&gt;Но самое главное - это чистка Телеграма от чатов и каналов (в некоторых по 10к непрочитаных было). Сейчас у меня только необходимые контакты и всё, а список активных чатов помещается в два экрана. Теперь не прийдётся себя ловить на мысли, что ты зашел ответить на важное сообщение, а вместо этого смотришь мемы/скроллишь рандомный чат.&lt;/p&gt;
-&lt;p&gt;Создал событие в календаре: раз в неделю (помимо бытовой уборки) проводить диджитал уборку:  чистить почту, Downloads директорию и открытые вкладки в браузере.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Crisis Jung</title>
-      <link>https://famiclone.ml/posts/crisis-jung/</link>
-      <pubDate>Mon, 08 Jun 2020 00:33:05 +0300</pubDate>
-      
-      <guid>https://famiclone.ml/posts/crisis-jung/</guid>
-      <description>&lt;p&gt;Аниме от французов, которое заслуживает внимания настолько насколько оно состоит из жестокости и скрытых смыслов.&lt;/p&gt;
-&lt;p&gt;Коктейль из Кулака северной звезды, Металапокалипсиса, отборного трэша, гуро и самоанализа взбитого бензопилой-членом.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/u13ImZ0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;завязка-всей-истории&#34;&gt;Завязка всей истории&lt;/h3&gt;
-&lt;p&gt;Главный герой Юнг и его девушка Мария наслаждаются новым местом куда они переехали. Несмотря на озлобленный и мрачный вид одного из соседей, Юнг обещает что они поладят с ними.
-Пара сближается для поцелуя на фоне зеленой травы под голубым небом и&amp;hellip; с неба падают бомбы, все вокруг взрывается и за пару секунд наступает апокалипсис.&lt;/p&gt;
-&lt;p&gt;Дальше наступает абсолютный сюр и тотальный пи__ец. Из под земли вылезает гиганский толстый монстр (который называет себя Малыш Иисус), отрывает голову Марие и делает из её центральным элементом своей пирамиды. Юнг в ярости произносит пафосную фразу и сразу же отбрасывается на далекое расстояние пальцем Малыша Иисуса.&lt;/p&gt;
-&lt;p&gt;C этого момента герою предстоит путь, где он переосмыслит своё существование, чтобы обрести Марию снова&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Z2aXO5X.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://famiclone.ml/books/</link>
-      <pubDate>Sun, 07 Jun 2020 20:01:38 +0300</pubDate>
-      
-      <guid>https://famiclone.ml/books/</guid>
-      <description>&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/0vCIAcT.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Харлан Эллисон - У меня нет рта, но я должен кричать&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-    Решил перечитать эту нестареющую классику. Тот редкий случай, когда игра вышедшая по мотивам - дополняет и расширяет первоисточник настолько, что становится самодостаточным произведением. 10 cуперкомпьютеров из 10
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/g61WDTz.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Франк Тилье - Синдром Е&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/zRkTK27.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Франк Тилье - Лента Мёбиуса&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-Детектив-триллер с элементами мистики и боди-хоррора. Повествование ведётся от лица молодого полицейского, которому выпало расследовать серию жесточайших убийств и декоратора который видит во снах эти самые убийства. Далее каждый начинает своё расследование и всё начинает закручиваться...
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/4inusrH.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Рэймонд Чандлер - Король в жёлтом&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-Нуар-детектив на вечер о приключениях гостиничного детектива. Прочитал его случайно так как изначально хотел прочитать одноименный рассказ Роберта У. Чемберса, но перепутал авторов.
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/nndlHdN.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Джон Стейнбек - О мышах и людях&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>https://famiclone.ml/uses/</guid>
+      <description>&lt;h2 id=&#34;software-&#34;&gt;Software 💾&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;macOS Catalina&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telegram&lt;/strong&gt; as default messenger/simple file storage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Chrome&lt;/strong&gt; as default desktop browser and sometimes &lt;strong&gt;Safari&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iterm2.com/&#34;&gt;&lt;strong&gt;iTerm2&lt;/strong&gt;&lt;/a&gt; / &lt;a href=&#34;https://github.com/famiclone/dotfiles/blob/master/.zshrc&#34;&gt;&lt;strong&gt;zsh&lt;/strong&gt;&lt;/a&gt; / &lt;a href=&#34;&#34;&gt;&lt;strong&gt;ohmyzsh&lt;/strong&gt;&lt;/a&gt; / &lt;a href=&#34;https://github.com/tmux/tmux&#34;&gt;&lt;strong&gt;tmux&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/famiclone/dotfiles&#34;&gt;&lt;strong&gt;dotfiles&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;code-editor&#34;&gt;Code editor&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;VS Code&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/famiclone/dotfiles/blob/master/.config/nvim/init.vim&#34;&gt;&lt;strong&gt;Neovim&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cli-tools&#34;&gt;CLI tools&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ytdl-org/youtube-dl&#34;&gt;&lt;strong&gt;youtube-dl&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/FFmpeg/FFmpeg&#34;&gt;&lt;strong&gt;ffmpeg&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sharkdp/bat&#34;&gt;&lt;strong&gt;bat&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ranger/ranger&#34;&gt;&lt;strong&gt;ranger&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brew.sh/&#34;&gt;&lt;strong&gt;homebrew&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;podcasts&#34;&gt;Podcasts&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Apple podcasts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pocketcasts.com/&#34;&gt;&lt;strong&gt;Pocket casts&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knowledge-db&#34;&gt;Knowledge db&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.notion.so/famiclone/&#34;&gt;&lt;strong&gt;Notion&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.famiclone.ml/&#34;&gt;&lt;strong&gt;Gitbook&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;music&#34;&gt;Music&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Apple music&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/nka8&#34;&gt;&lt;strong&gt;Soundcloud&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCjC69IBH5AAvRljOeaFxQ4g/playlists&#34;&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;music-production&#34;&gt;Music production&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ableton.com/en/&#34;&gt;&lt;strong&gt;Ableton 10&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arturia.com/keystep/overview&#34;&gt;&lt;strong&gt;Arturia keystep&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.korg.com/us/products/dj/volca_fm/&#34;&gt;&lt;strong&gt;Korg volca fm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.korg.com/us/products/dj/volca_sample/&#34;&gt;&lt;strong&gt;Korg volca sample&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;design&#34;&gt;Design&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;&lt;strong&gt;Figma&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plantuml.com/&#34;&gt;&lt;strong&gt;PlantUML&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.diagrams.net/&#34;&gt;&lt;strong&gt;draw.io&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;image-editing&#34;&gt;Image editing&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.photopea.com/&#34;&gt;&lt;strong&gt;Photopea&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;productivity&#34;&gt;Productivity&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://todoist.com/&#34;&gt;&lt;strong&gt;Todoist&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://flowapp.info/&#34;&gt;&lt;strong&gt;Flow&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;&lt;strong&gt;Trello&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/ZLCVLiF.png&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Элияху Голдратт - Цель. Процесс непрерывного совершенствования&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
+&lt;h2 id=&#34;hardware-&#34;&gt;Hardware 📺&lt;/h2&gt;
+&lt;h4 id=&#34;work&#34;&gt;Work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Apple Mac mini&#39;12&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Display: &lt;strong&gt;Dell P2418D&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard: &lt;strong&gt;Leopold FC750R&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;reading&#34;&gt;Reading&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Amazon Kindle Paperwhite 10gen&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon Fire 10gen&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;gaming&#34;&gt;Gaming&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.playstation.com/profile/orangecalx&#34;&gt;&lt;strong&gt;Sony PS4&lt;/strong&gt;&lt;/a&gt; as default gaming platform&lt;/li&gt;
+&lt;li&gt;Some other stuff:
+&lt;ul&gt;
+&lt;li&gt;Sony PS3&lt;/li&gt;
+&lt;li&gt;Nintendo Wii&lt;/li&gt;
+&lt;li&gt;PS Vita&lt;/li&gt;
+&lt;li&gt;Nintendo 3DS&lt;/li&gt;
+&lt;li&gt;Chinese emulation handhelds (Retroflag GPI Case, Anbernic RG350M)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>https://famiclone.ml/information/</link>
+      <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
       
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/VCR7ReO.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Крис Бэйли - Мой продуктивный год&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/eQJ0r37.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Саймон Сингх - Симпсоны и их математические секреты&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/NGD4I4r.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;А. и Б. Стругацкие - Понедельник начинается в субботу&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>https://famiclone.ml/information/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/programming&#34;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/hardware&#34;&gt;Hardware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -190,304 +128,7 @@
       <pubDate>Sun, 07 Jun 2020 18:54:19 +0300</pubDate>
       
       <guid>https://famiclone.ml/about/</guid>
-      <description>&lt;h3 id=&#34;test&#34;&gt;Test&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://famiclone.ml/music/</link>
-      <pubDate>Sun, 07 Jun 2020 11:53:10 +0300</pubDate>
-      
-      <guid>https://famiclone.ml/music/</guid>
-      <description>&lt;h2 id=&#34;favorite-music-albums&#34;&gt;Favorite music albums&lt;/h2&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a3730827135_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Tommy Guerrero - Road to Knowhere&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://tommy-guerrero-too-good.bandcamp.com/album/road-to-knowhere&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a2077159990_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Yussef Kamaal - Black Focus&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://yussefkamaal.bandcamp.com/album/black-focus&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a2920217675_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Oneohtrix Point Never - Replica&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-test
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://oneohtrixpointnever1.bandcamp.com/album/replica&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/01EaUoO.png&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt; James Ferraro ‎– Jarvid 9: Gecko &lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://www.discogs.com/James-Ferraro-Jarvid-9-Gecko/release/1776966&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/5saBpkb.png&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Boards Of Canada ‎– Music Has The Right To Children&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://www.discogs.com/Boards-Of-Canada-Music-Has-The-Right-To-Children/master/1893&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a1889170081_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Shpongle - Nothing Lasts... But Nothing Is Lost&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://shponglemusic.bandcamp.com/album/nothing-lasts-but-nothing-is-lost&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a0756436376_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Evan Marc &amp;#43; Steve Hillage - Dreamtime Submersible&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://bluetech.bandcamp.com/album/evan-marc-steve-hillage-dreamtime-submersible&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a0158336333_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Burial - Untrue&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://burial.bandcamp.com/album/untrue&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://i.imgur.com/gmYowdN.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt; The Sabres Of Paradise ‎– Sabresonic&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://www.discogs.com/The-Sabres-Of-Paradise-Sabresonic/release/16466&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a0667867091_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Colonopenbracket - First Blood!!!&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://colonopenbracket.bandcamp.com/album/first-blood&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a2988151693_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Action Jackson - Testarossa&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://actionjacksonmusic.bandcamp.com/album/testarossa&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a2881869020_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Panopticon - Autumn Eternal&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://thetruepanopticon.bandcamp.com/album/autumn-eternal&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;https://f4.bcbits.com/img/a1825905304_16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;Fanso - Música para Lagartos&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-        &lt;a href=&#34;https://fanso.bandcamp.com/album/m-sica-para-lagartos&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;media-item&#34;&gt;
-  &lt;div class=&#34;media-item__container&#34;&gt;
-    &lt;div class=&#34;media-item__img-wrap w-10&#34;&gt;
-      &lt;img src=&#34;&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;w-90&#34;&gt;
-      &lt;h4 class=&#34;media-item__title&#34;&gt;&lt;/h4&gt;
-      &lt;p class=&#34;mt-0&#34;&gt;
-&lt;/p&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Хранилище файлов из подручных средств. Часть 1</title>
-      <link>https://famiclone.ml/posts/omv/</link>
-      <pubDate>Thu, 05 Dec 2019 09:53:35 +0200</pubDate>
-      
-      <guid>https://famiclone.ml/posts/omv/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Сразу предупреждаю &amp;ldquo;Подручные средства&amp;rdquo; в заголовке всё таки требуют определенных вложений. Я использовал это словосочетание исключительно потому, что у меня все компоненты просто лежали без дела и я за пару часов собрал из них сабж.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6HPq1cY.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Давно возникло желание иметь девайс к которому можно будет подключится любым устройством дома. Чтобы шарить медиа и
-прочие файлы между устройствами без задней мысли. Так как у меня два ноутбука (один в качестве десктопа), а второй
-использую как, собственно, ноутбук (ношу с собой и т.д.). На обоих стоят SSD на 120GB, что как-бы маловато в 2019. Плюс еще к этому разные системы (на
-декстопе macOS, на втором ноуте - ArchLinux), а это разные файловые системы.&lt;/p&gt;
-&lt;h2 id=&#34;необходимый-минимум&#34;&gt;Необходимый минимум&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Orange PI ( В моём случае &lt;a href=&#34;https://www.aliexpress.com/item/32448079125.html&#34;&gt;Orange PI PC&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;2.5&amp;rdquo; HDD / SSD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aliexpress.com/item/4000067020314.html&#34;&gt;Блок питания&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Карта памяти от 8GB (10 класса) и выше&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32947892737.html&#34;&gt;USB 3.0 Бокс&lt;/a&gt; для жёсткого диска&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;первый-шаг&#34;&gt;Первый шаг&lt;/h2&gt;
-&lt;p&gt;С самого начала нужно будет записать образ на карту памяти. Образ нужен для конкретного одноплатника, поэтому ищем по моделям &lt;a href=&#34;https://www.armbian.com/&#34;&gt;здесь&lt;/a&gt; и качаем &lt;strong&gt;Armbian Buster&lt;/strong&gt; (это важно). Скачали образ? Теперь переходим к записи. Для этого есть очень удобная утилита - &lt;a href=&#34;https://www.balena.io/etcher/&#34;&gt;Etcher&lt;/a&gt;.
-&lt;img src=&#34;https://i.imgur.com/cAE3Z3C.png&#34; alt=&#34;&#34;&gt;
-Здесь всё максимально просто:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Выбор образа&lt;/li&gt;
-&lt;li&gt;Выбор носителя для записи&lt;/li&gt;
-&lt;li&gt;Кнопка старта записи&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;После успешной записи вставляем карту в одноплатник и подключаем к нему блок питания и кабель ethernet. Ethernet должен быть подключен к свободному порту на роутере.&lt;/p&gt;
-&lt;h2 id=&#34;подключение-по-ssh&#34;&gt;Подключение по ssh&lt;/h2&gt;
-&lt;p&gt;Итак, одноплатник работает (это должно быть видно по светодиодам на плате), теперь нужно узнать его IP-адрес в локальной сети. Для этого, идём в &lt;a href=&#34;http://192.168.1.1&#34;&gt;веб-интерфейс своего wifi-роутера&lt;/a&gt;. В зависимости от модели и производителя роутера, интерфейс будет отличаться. Короче говоря нам нужен раздел DHCP, в ней будет таблица со списком всех подключенных устройств.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CZzAw0y.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Здесь то и можно будет увидеть название нашего одноплатника и присвоеный ему IP-адрес.
-Переходим в терминал (macOS, linux, freebsd и прочие unix-like системы) (или в Windows PowerShell) и вводим:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;ssh root@&amp;lt;ваш_ip_адрес&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Далее нужно будет ввести пароль &lt;code&gt;1234&lt;/code&gt;. Если пароль принят, то появится приветствие примерно такого вида:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ddt7tE3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;На этом этапе требуется изменить текущий пароль &lt;code&gt;1234&lt;/code&gt; на более сложный пароль и создать нового пользователя. Когда пользователь создан, нужно будет выйти и зайти под ним.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;exit
-ssh &amp;lt;имя_нового_пользователя&amp;gt;@&amp;lt;ваш_ip_адрес&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Теперь можно переходить к обновлению системы:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo apt update &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt upgrade
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;После успешного обновления, заходим в &lt;strong&gt;armbian-config&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo armbian-config
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YvaOJpd.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Далее проследовать в &lt;strong&gt;Software&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Softy&lt;/strong&gt; и отметить клавишей &amp;ldquo;Пробел&amp;rdquo; нужные пакеты&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Samba&lt;/li&gt;
-&lt;li&gt;OMV&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/R7yyZGv.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;После этого выбрать &lt;strong&gt;INSTALL&lt;/strong&gt; и дождаться окончания установки.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Она может занять до 30 минут, и может показаться, что процесс висит. Но лучше всего не прерывать процесс и дождаться конца установки.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;На этом первая часть подошла к концу. Далее я расскажу о настройке OpenMediaVault.&lt;/p&gt;
-&lt;p&gt;:wq&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

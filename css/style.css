@@ -63,11 +63,6 @@ img {
 .ul--custom {
   padding: 0;
   margin: 0;
-  display: flex;
-}
-.ul--custom  li {
-  list-style: none !important;
-  margin-right: 0.5rem;
 }
 
 .media-item {
@@ -95,11 +90,4 @@ img {
 
 .media-item__title {
   margin: 0;
-}
-
-@media screen and (max-width: 640px) {
-  body {
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
 }
