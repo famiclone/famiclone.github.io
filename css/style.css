@@ -1,11 +1,35 @@
 @import "https://unpkg.com/latex.css@1.1.0/style.min.css";
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap");
 
+:root {
+  --dark: #1b1b1b;
+  --light: #ececec;
+}
+
+
+[data-theme="light"] {
+  --foreground: var(--dark);
+  --background: var(--light);
+  --primary: #a00;
+}
+
+[data-theme="dark"] {
+  --foreground: var(--light);
+  --background: var(--dark);
+  --primary: #c90c0c;
+}
+
+html {
+  background-color: var(--background);
+}
+
 body {
   max-width: 720px;
+  background-color: var(--background);
   font-family: "Merriweather", serif;
   font-size: 15px;
   padding: 1rem 0;
+  color: var(--foreground)
 }
 
 h1,
@@ -90,4 +114,13 @@ img {
 
 .media-item__title {
   margin: 0;
+}
+
+.page-header__top {
+  display: flex;
+  justify-content: space-between;
+}
+
+a, a:visited {
+  color: var(--primary);
 }
