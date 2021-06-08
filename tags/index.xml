@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
-    <link>https://famiclone.ml/tags/</link>
+    <link>https://famiclone.dev/tags/</link>
     <description>Blog (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     
-    <atom:link href="https://famiclone.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://famiclone.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

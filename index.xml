@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>https://famiclone.ml/</link>
+    <link>https://famiclone.dev/</link>
     <description>Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     
-    <atom:link href="https://famiclone.ml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://famiclone.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Things that i use</title>
-      <link>https://famiclone.ml/uses/</link>
+      <link>https://famiclone.dev/uses/</link>
       <pubDate>Tue, 23 Feb 2021 23:43:18 +0300</pubDate>
       
-      <guid>https://famiclone.ml/uses/</guid>
+      <guid>https://famiclone.dev/uses/</guid>
       <description>&lt;h2 id=&#34;software-&#34;&gt;Software 💾&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;macOS Catalina&lt;/strong&gt;&lt;/li&gt;
@@ -46,7 +46,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.notion.so/famiclone/&#34;&gt;&lt;strong&gt;Notion&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://garden.famiclone.ml/&#34;&gt;&lt;strong&gt;Gitbook&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garden.famiclone.dev/&#34;&gt;&lt;strong&gt;Gitbook&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;music&#34;&gt;Music&lt;/h4&gt;
 &lt;ul&gt;
@@ -109,37 +109,37 @@
     
     <item>
       <title>Information</title>
-      <link>https://famiclone.ml/information/</link>
+      <link>https://famiclone.dev/information/</link>
       <pubDate>Sat, 13 Jun 2020 12:56:18 +0300</pubDate>
       
-      <guid>https://famiclone.ml/information/</guid>
+      <guid>https://famiclone.dev/information/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/programming&#34;&gt;Programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/hardware&#34;&gt;Hardware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/info/software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/info/programming&#34;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/info/music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/info/hardware&#34;&gt;Hardware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/info/software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://famiclone.ml/about/</link>
+      <link>https://famiclone.dev/about/</link>
       <pubDate>Sun, 07 Jun 2020 18:54:19 +0300</pubDate>
       
-      <guid>https://famiclone.ml/about/</guid>
+      <guid>https://famiclone.dev/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://famiclone.ml/projects/</link>
+      <link>https://famiclone.dev/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://famiclone.ml/projects/</guid>
+      <guid>https://famiclone.dev/projects/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/canvas.js%22&#34;&gt;canvas.js&lt;/a&gt; - Simple boilerplate for HTML5 canvas projects. &lt;a href=&#34;https://github.com/famiclone/canvas.js&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.ml/SpaceShooter/&#34;&gt;SpaceShooter&lt;/a&gt; - Shoot&amp;rsquo;em up game (WASD (moving), Space (fire)). &lt;a href=&#34;https://github.com/famiclone/SpaceShooter&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/canvas.js%22&#34;&gt;canvas.js&lt;/a&gt; - Simple boilerplate for HTML5 canvas projects. &lt;a href=&#34;https://github.com/famiclone/canvas.js&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/SpaceShooter/&#34;&gt;SpaceShooter&lt;/a&gt; - Shoot&amp;rsquo;em up game (WASD (moving), Space (fire)). &lt;a href=&#34;https://github.com/famiclone/SpaceShooter&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Inkpalette - Inkscape extension for creating a color palette from famous brand colors. &lt;a href=&#34;https://github.com/famiclone/Inkpalette&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;LCDInvaders - Simple shoot&amp;rsquo;em up Arduino game. &lt;a href=&#34;https://github.com/famiclone/LCDInvaders&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

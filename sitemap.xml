@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://famiclone.ml/uses/</loc>
+    <loc>https://famiclone.dev/uses/</loc>
     <lastmod>2021-02-23T23:43:18+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/information/</loc>
+  </url><url>
+    <loc>https://famiclone.dev/information/</loc>
     <lastmod>2020-06-13T12:56:18+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/about/</loc>
+  </url><url>
+    <loc>https://famiclone.dev/about/</loc>
     <lastmod>2020-06-07T18:54:19+03:00</lastmod>
+  </url><url>
+    <loc>https://famiclone.dev/</loc>
+  </url><url>
+    <loc>https://famiclone.dev/categories/</loc>
+  </url><url>
+    <loc>https://famiclone.dev/projects/</loc>
+  </url><url>
+    <loc>https://famiclone.dev/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://famiclone.ml/</loc>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://famiclone.ml/tags/</loc>
-  </url>
-  
 </urlset>
