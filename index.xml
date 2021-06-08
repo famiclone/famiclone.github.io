@@ -138,7 +138,7 @@
       
       <guid>https://famiclone.dev/projects/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/canvas.js%22&#34;&gt;canvas.js&lt;/a&gt; - Simple boilerplate for HTML5 canvas projects. &lt;a href=&#34;https://github.com/famiclone/canvas.js&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://famiclone.dev/canvas.js&#34;&gt;canvas.js&lt;/a&gt; - Simple boilerplate for HTML5 canvas projects. &lt;a href=&#34;https://github.com/famiclone/canvas.js&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://famiclone.dev/SpaceShooter/&#34;&gt;SpaceShooter&lt;/a&gt; - Shoot&amp;rsquo;em up game (WASD (moving), Space (fire)). &lt;a href=&#34;https://github.com/famiclone/SpaceShooter&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Inkpalette - Inkscape extension for creating a color palette from famous brand colors. &lt;a href=&#34;https://github.com/famiclone/Inkpalette&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;LCDInvaders - Simple shoot&amp;rsquo;em up Arduino game. &lt;a href=&#34;https://github.com/famiclone/LCDInvaders&#34;&gt;Repo&lt;/a&gt;&lt;/li&gt;
