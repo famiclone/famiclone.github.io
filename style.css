@@ -23,6 +23,7 @@ body {
   grid-template-areas: 'content sidebar';
   grid-auto-columns: 1fr 300px;
   min-height: 100vh;
+  width: 100%;
 }
 
 .contacts {
@@ -63,9 +64,6 @@ body {
 
 .section {
   margin-bottom: 3rem;
-}
-
-.content-header {
 }
 
 .content-header__greet {
@@ -191,4 +189,35 @@ li {
   border: 1px dotted #303030;
   margin-bottom: 1rem;
   padding: 0.5rem;
+}
+
+.page-footer {
+  padding: 1rem 0;
+}
+
+.project-img {
+  width: 100%;
+}
+
+@media (max-width: 500px) {
+  .page {
+    display: flex;
+    flex-flow: column-reverse;
+    max-width: 100%;
+  }
+
+  .page-content {
+    padding: 0 1rem;
+  }
+
+  .page-sidebar {
+    height: auto;
+    width: 100%;
+    border: none;
+  }
+
+  .page-sidebar--fixed {
+    position: relative;
+    width: 100%;
+  }
 }
