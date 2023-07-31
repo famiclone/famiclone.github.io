@@ -1,31 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
-    />
-    <link rel="stylesheet" href="style.css" />
-    <title>Denys Tynok ∙ Software engineer∙</title>
-  </head>
-  <body data-theme="stars">
-    <div class="page">
-      <div class="page-content">
-        <div class="content-header">
-          <!-- <div class="content-header__greet">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Denys Tynok ∙ Software engineer∙</title>
+</head>
+
+<body data-theme="stars">
+  <div class="bg">
+    <img src="/assets/images/tiny-ufo.gif" id="ufo1" />
+  </div>
+  <div class="page">
+    <div class="page-content" id="pageContent">
+      <div class="content-header">
+        <!-- <div class="content-header__greet">
             <img
               class="content-header__img"
               src="assets/images/3d.png"
               alt=""
             />
           </div> -->
-        </div>
+      </div>
 
-        <div class="content-body">
-          <div id="about" class="section">
+      <div class="content-body">
+        <section id="about" class="about-container">
+          <div class="about-text">
             <p class="main-text">
               My name is Denys.
               <br />
@@ -37,135 +40,212 @@
             </p>
           </div>
 
-          <div id="skills" class="section">
-            <div class="heading-wrapper center">
-              <img src="/assets/images/skills.gif" alt="" />
-              <h2>Skills / Hobbies</h2>
-            </div>
+          <div class="about-arrow">
+            <img src="/assets/images/arrow.gif" style="transform: rotate(-90deg)" />
+          </div>
+        </section>
 
-            <p>Git, Neovim, Testing, HTML, CSS, TypeScript, C, Game development, Rust, Electrical Engineering</p>
+
+
+
+        <div id="projects">
+          <div class="heading-wrapper center">
+            <img src="/assets/images/projects.gif" alt="" />
+            <h2>Projects</h2>
           </div>
 
-<div class="contacts">
-  <img src="assets/images/mail.gif" alt="mailbox" />
+          <div class="projects-list">
+            <div class="project-card">
+              <a href="https://famiclone.dev/miniwizard" target="_blank">
+                <figure>
+                  <img class="project-img" src="https://github.com/famiclone/miniwizard/raw/main/public/miniwiz.png"
+                    alt="Inkpalette" width="32" />
+                  <figcaption>
+                    <img src="/assets/images/new.gif" /> Pixel art editor for browsers.
+                  </figcaption>
+                </figure>
+              </a>
+            </div>
+            <div class="project-card">
+              <a href="https://famiclone.dev/unki" target="_blank">
+                <figure>
+                  <img class="project-img" src="/assets/images/project-3.jpg" alt="Inkpalette" width="640" />
+                  <figcaption>
+                    Simple flashcards app.
+                  </figcaption>
+                </figure>
+              </a>
+            </div>
+
+            <div class="project-card">
+              <a href="https://github.com/famiclone/LCDInvaders" target="_blank">
+                <figure>
+                  <img class="project-img" src="/assets/images/project-2.jpg" alt="Inkpalette" width="640" />
+                  <figcaption>LCD Invaders</figcaption>
+                </figure>
+              </a>
+            </div>
+
+            <div class="project-card">
+              <a href="https://github.com/famiclone/Inkpalette" target="_blank">
+                <figure>
+                  <img class="project-img" src="/assets/images/project-1.jpg" alt="Inkpalette" width="640" />
+                  <figcaption>
+                    Inkscape extension for creating a color palette from
+                    famous brand colors.
+                  </figcaption>
+                </figure>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <hr />
+
+        <section id="uses">
+          <div class="heading-wrapper center">
+            <img src="/assets/images/computer.gif" alt="" />
+            <h2>Tools i use</h2>
+          </div>
+
+
+          <div class="uses-wrapper">
+            <div>
+              <article>
+                <h3>Hardware</h3>
+                <ul>
+                  <li><a href="://www.apple.com/shop/buy-mac/macbook-pro/14-inch" traget="_blank">Apple MacBook Pro</a>
+                  </li>
+                  <li><a href="https://www.keychron.com/pages/keychron-k6-pro" target="_blank">Keychron K6 Pro</a> with
+                    <a href="https://cannonkeys.com/products/cannoncaps-407" target="_blank">CannonCaps 407</a>
+                  </li>
+                  <li><a href="https://www.logitech.com/en-us/products/mice/mx-master-3s" target="_blank">Logitech MX
+                      Master
+                      3</a></li>
+                </ul>
+              </article>
+
+              <article>
+                <h3>Software</h3>
+                <ul>
+                  <li><i>Web browser: </i>Safari</li>
+                  <li><i>Terminal: </i><a href="https://github.com/alacritty/alacritty" target="_blank">Alacritty</a>
+                  </li>
+                  <li><i>Shell: </i><a href="https://www.zsh.org" target="_blank">zsh</a></li>
+                  <li><i>Multiplexer: </i><a href="https://github.com/tmux/tmux" target="_blank">tmux</a></li>
+                  <li><i>ZSH plugin manager: </i><a href="https://github.com/zap-zsh/zap" target="_blank">Zap</a></li>
+                  <li><i>Font: </i> <a href="https://github.com/belluzj/fantasque-sans" target="_blank">Fantasque Sans
+                      Mono</a></li>
+                  <li><i>Editor: </i> <a href="https://neovim.io" target="_blank">Neovim</a></li>
+                  <li><i>Colorscheme: </i><a href="https://github.com/sainnhe/sonokai">sonokai</a></li>
+
+                </ul>
+              </article>
+
+              <article>
+                <h3>Image editing</h3>
+                <ul>
+                  <li><i>Pixel art: </i><a href="https://www.aseprite.org" target="_blank">Aseprite</a></li>
+                  <li><i>Image: </i><a href="https://www.photopea.com" target="_blank">Photopea</a></li>
+                  <li><i>Design/Moodboard: </i><a href="https://www.figma.com" target="_blank">Figma</a></li>
+                </ul>
+              </article>
+
+              <article>
+                <h3>Audio / Video editing</h3>
+                <ul>
+                  <li><i>DAW: </i><a href="https://www.ableton.com/en/live/" target="_blank">Ableton</a></li>
+                  <li><i>Microphone: </i><a
+                      href="https://samsontech.com/products/microphones/usb-microphones/gtrackpro/"
+                      target="_blank">Samson G-Track Pro</a></li>
+                  <li><i>Video editor: </i><a href="https://www.blackmagicdesign.com/products/davinciresolve/"
+                      target="_blank">DaVinci Resolve</a></li>
+                </ul>
+              </article>
+
+
+            </div>
+
+            <div id="workdeskPhoto" class="workdesk-photo">
+              <div class="slider-container">
+                <div class="slider-wrapper">
+                  <div class="slides">
+                    <div class="slide" id="slide_1">
+                      <img src="assets/images/macbook.png" alt="">
+                      <a class="slider-btn" href="#slide_3">Prev</a>
+                      <a class="slider-btn" href="#slide_2">Next</a>
+                    </div>
+                    <div class="slide" id="slide_2">
+                      <img src="assets/images/keyboard_mouse.png" alt="">
+                      <a class="slider_btn" href="#slide_1">Prev</a>
+                      <a class="slider_btn" href="#slide_3">Next</a>
+                    </div>
+                    <div class="slide" id="slide_3">
+                      <img src="assets/images/microphone.png" alt="">
+                      <a class="slider-btn" href="#slide_2">Prev</a>
+                      <a class="slider-btn" href="#slide_1">Next</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="margin: 2rem auto; width: 100%">
+            <img src="/assets/images/win.png" />
+          </div>
+
+
+          <hr />
+          </s>
+
+          <div class="contacts">
+            <img src="assets/images/mail.gif" alt="mailbox" />
             <div class="mr--1">Follow me:</div>
-            <ul class="contact-links">
-              <li class="contact-link">
-                <a href="https://github.com/famiclone" target="_blank"
-                  ><img
-                    src="/assets/images/github.png"
-                    alt="Github logo"
-                    width="64"
-                /></a>
-              </li>
-
-          </div>
-
-          <div id="projects">
-            <div class="heading-wrapper center">
-              <img src="/assets/images/projects.gif" alt="" />
-              <h2>Projects</h2>
+            <div class="contact-links">
+              <a href="https://github.com/famiclone" target="_blank">
+                <img src="/assets/images/github.png" alt="Github logo" width="64" />
+              </a>
+              <a href="https://open.spotify.com/user/31jaxkg2zfqmfhj6hcoju7cas2wq?si=75667bd70fd44c1a" target="_blank">
+                <img src="/assets/images/spotify.jpg" alt="Spotify logo" width="64" />
+              </a>
             </div>
-
-            <div class="projects-list">
-              <div class="project-card">
-                <a href="https://famiclone.dev/miniwizard" target="_blank">
-                  <figure>
-                    <img
-                      class="project-img"
-                      src="https://github.com/famiclone/miniwizard/raw/main/public/miniwiz.png"
-                      alt="Inkpalette"
-                      width="32"
-                    />
-                    <figcaption>
-                      <img src="/assets/images/new.gif" /> Pixel art editor for browsers.
-                    </figcaption>
-                  </figure>
-                </a>
-              </div>
-              <div class="project-card">
-                <a href="https://famiclone.dev/unki" target="_blank">
-                  <figure>
-                    <img
-                      class="project-img"
-                      src="/assets/images/project-3.jpg"
-                      alt="Inkpalette"
-                      width="640"
-                    />
-                    <figcaption>
-                      Simple flashcards app.
-                    </figcaption>
-                  </figure>
-                </a>
-              </div>
-
-              <div class="project-card">
-                <a
-                  href="https://github.com/famiclone/LCDInvaders"
-                  target="_blank"
-                >
-                  <figure>
-                    <img
-                      class="project-img"
-                      src="/assets/images/project-2.jpg"
-                      alt="Inkpalette"
-                      width="640"
-                    />
-                    <figcaption>Simple flashcards app.</figcaption>
-                  </figure>
-                </a>
-              </div>
-
-              <div class="project-card">
-                <a
-                  href="https://github.com/famiclone/Inkpalette"
-                  target="_blank"
-                >
-                  <figure>
-                    <img
-                      class="project-img"
-                      src="/assets/images/project-1.jpg"
-                      alt="Inkpalette"
-                      width="640"
-                    />
-                    <figcaption>
-                      Inkscape extension for creating a color palette from
-                      famous brand colors.
-                    </figcaption>
-                  </figure>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <footer class="page-footer">
-          Build with <img src="assets/images/heart.gif" width="32" /> &
-          <img src="assets/images/html.png" alt="html" width="72" /> ∙ <span id="cDate">2022</span>
-        </footer>
+        </section>
       </div>
-      <div class="page-sidebar">
-        <div class="page-sidebar--fixed">
-          <div class="sidebar-top">
-            <div class="sidebar-photo-wrapper">
-              <div class="sidebar-photo"></div>
-            </div>
 
-            <div class="center">
-              <img src="/assets/images/greet.gif" alt="" />
-            </div>
-          </div>
-          <ul class="sidebar-links">
-            <li class="sidebar-link"><a href="#about">About me</a></li>
-            <li class="sidebar-link"><a href="#skills">Skills</a></li>
-            <li class="sidebar-link"><a href="#projects">Projects</a></li>
-            <!-- <li class="sidebar-link"><a href="cv.html" target="_blank">CV</a></li> -->
-          </ul>
 
-          <div class="sidebar-bottom"></div>
-        </div>
-      </div>
+
+      <footer class="page-footer">
+        Build with <img src="assets/images/heart.gif" width="32" /> &
+        <img src="assets/images/html.png" alt="html" width="72" /> ∙ <span id="cDate">2022</span>
+      </footer>
     </div>
-    <script src="index.js"></script>
-  </body>
+
+
+    <aside class="page-sidebar">
+      <div class="page-sidebar--fixed">
+        <div class="sidebar-top">
+          <div class="sidebar-photo-wrapper">
+            <div class="sidebar-photo"></div>
+          </div>
+
+          <div class="center">
+            <img src="/assets/images/greet.gif" alt="" />
+          </div>
+        </div>
+        <ul class="sidebar-links">
+          <li class="sidebar-link"><a href="#about">About me</a></li>
+          <li class="sidebar-link"><a href="#projects">Projects</a></li>
+          <li class="sidebar-link"><a href="#uses">Tools i use</a></li>
+          <!-- <li class="sidebar-link"><a href="cv.html" target="_blank">CV</a></li> -->
+        </ul>
+
+        <div class="sidebar-bottom"></div>
+      </div>
+    </aside>
+
+  </div>
+  <script src="index.js"></script>
+</body>
+
 </html>
